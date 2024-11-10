@@ -40,8 +40,8 @@ export const metadata: Metadata = {
     title: "Yoga Ardika — Software Engineer",
     description:
       "Software Engineer, currently at Traveloka. Focused on interfaces and experiences, working on-site from Tangerang, Indonesia.",
-    url: " ",
-    siteName: " ",
+    url: undefined,
+    siteName: undefined,
     images: [
       {
         url: "https://user-images.githubusercontent.com/84178696/228620835-e3cc5c9b-72fc-4f54-a628-407ef7b650f5.png",
