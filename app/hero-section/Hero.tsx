@@ -136,8 +136,7 @@ const Hero = () => {
           variants={bodyAnimation}
         >
           <p className="text-right text-[16px] font-semibold text-[#e4ded7] md:text-[20px]">
-            Focused on interfaces and experiences, working on-site from Tangerang,
-            Indonesia.
+            Focused on interfaces and experiences, working on-site in Jakarta.
           </p>
         </motion.div>
       </div>

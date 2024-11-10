@@ -13,7 +13,7 @@ const syne = Syne({
 export const metadata: Metadata = {
   title: "Yoga Ardika — Software Engineer",
   description:
-    "Software Engineer, currently at Traveloka. Focused on interfaces and experiences, working on-site from Tangerang, Indonesia.",
+    "Software Engineer, currently at Traveloka. Focused on interfaces and experiences, working on-site in Jakarta.",
   generator: "Next.js",
   applicationName: "Agooy",
   keywords: [
@@ -39,7 +39,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "Yoga Ardika — Software Engineer",
     description:
-      "Software Engineer, currently at Traveloka. Focused on interfaces and experiences, working on-site from Tangerang, Indonesia.",
+      "Software Engineer, currently at Traveloka. Focused on interfaces and experiences, working on-site in Jakarta.",
     url: undefined,
     siteName: undefined,
     images: [
@@ -57,7 +57,7 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: "Yoga Ardika — Software Engineer",
     description:
-      "Software Engineer, currently at Traveloka. Focused on interfaces and experiences, working on-site from Tangerang, Indonesia.",
+      "Software Engineer, currently at Traveloka. Focused on interfaces and experiences, working on-site in Jakarta.",
     creator: "Agooy",
     creatorId: "1243720976552144897",
     images: [
