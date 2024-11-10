@@ -12,11 +12,7 @@ I created this website to showcase my work. I’m always striving to create some
 
 ## Screenshots & Demo
 
-![App Screenshot](https://user-images.githubusercontent.com/84178696/228679118-47e63775-0635-42b2-8838-a80644ef612b.png)
-
 ![App Screenshot](https://i.ibb.co.com/CtwZJcz/12e65f0bbfbfaf4124d32fbfa606081c52c5212a432d46c31e055a4021939fe5.png)
-
-![App Screenshot](https://user-images.githubusercontent.com/84178696/228675919-70180c2c-c888-423d-ae85-409ce4645b8b.png)
 
 [View Live Demo](https://folio-v1-victorcodess.vercel.app/)
 
