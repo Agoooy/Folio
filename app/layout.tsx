@@ -44,7 +44,7 @@ export const metadata: Metadata = {
     siteName: undefined,
     images: [
       {
-        url: "https://user-images.githubusercontent.com/84178696/228620835-e3cc5c9b-72fc-4f54-a628-407ef7b650f5.png",
+        url: "https://i.ibb.co.com/CtwZJcz/12e65f0bbfbfaf4124d32fbfa606081c52c5212a432d46c31e055a4021939fe5.png",
         width: 1200,
         height: 630,
         alt: "Yoga Ardika — Software Engineer",
@@ -61,7 +61,7 @@ export const metadata: Metadata = {
     creator: "Agooy",
     creatorId: "1243720976552144897",
     images: [
-      "https://user-images.githubusercontent.com/84178696/228620835-e3cc5c9b-72fc-4f54-a628-407ef7b650f5.png",
+      "https://i.ibb.co.com/CtwZJcz/12e65f0bbfbfaf4124d32fbfa606081c52c5212a432d46c31e055a4021939fe5.png",
     ],
   },
   robots: {
