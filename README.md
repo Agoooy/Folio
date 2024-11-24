@@ -12,7 +12,7 @@ I created this website to showcase my work. I’m always striving to create some
 
 ![App Screenshot](https://i.ibb.co.com/CtwZJcz/12e65f0bbfbfaf4124d32fbfa606081c52c5212a432d46c31e055a4021939fe5.png)
 
-[View Live Demo](https://folio-v1-victorcodess.vercel.app/)
+[View Live Demo](https://agooy.vercel.app/)
 
 ## Run Locally
 
