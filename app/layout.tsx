@@ -11,7 +11,7 @@ const syne = Syne({
 });
 
 export const metadata: Metadata = {
-  title: "Yoga Ardika — Software Engineer",
+  title: "Agooy — Software Engineer",
   description:
     "Software Engineer, currently at Traveloka. Focused on interfaces and experiences, working on-site in Jakarta.",
   generator: "Next.js",
@@ -37,7 +37,7 @@ export const metadata: Metadata = {
   ],
   colorScheme: "dark",
   openGraph: {
-    title: "Yoga Ardika — Software Engineer",
+    title: "Agooy — Software Engineer",
     description:
       "Software Engineer, currently at Traveloka. Focused on interfaces and experiences, working on-site in Jakarta.",
     url: undefined,
@@ -47,7 +47,7 @@ export const metadata: Metadata = {
         url: "https://i.ibb.co.com/CtwZJcz/12e65f0bbfbfaf4124d32fbfa606081c52c5212a432d46c31e055a4021939fe5.png",
         width: 1200,
         height: 630,
-        alt: "Yoga Ardika — Software Engineer",
+        alt: "Agooy — Software Engineer",
       },
     ],
     locale: "en-US",
@@ -55,7 +55,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Yoga Ardika — Software Engineer",
+    title: "Agooy — Software Engineer",
     description:
       "Software Engineer, currently at Traveloka. Focused on interfaces and experiences, working on-site in Jakarta.",
     creator: "Agooy",
