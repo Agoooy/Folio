@@ -10,7 +10,7 @@ I created this website to showcase my work. I’m always striving to create some
 
 ## Screenshots & Demo
 
-![App Screenshot](https://i.ibb.co.com/CtwZJcz/12e65f0bbfbfaf4124d32fbfa606081c52c5212a432d46c31e055a4021939fe5.png)
+![App Screenshot](https://ibb.co.com/8LrPVKy8)
 
 [View Live Demo](https://agooy.vercel.app/)
 
